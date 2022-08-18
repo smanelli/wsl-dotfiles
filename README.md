@@ -6,3 +6,7 @@ zsh
 oh-my-zsh
 powerlevel10k
 zsh-autosuggestions
+bat
+zoxide
+exa
+packer
