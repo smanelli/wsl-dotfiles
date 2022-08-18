@@ -10,3 +10,8 @@ bat
 zoxide
 exa
 packer
+
+
+
+git init
+git pull --set-upstream git@github.com:smanelli/wsl-dotfiles.git 
